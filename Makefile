@@ -1,3 +1,5 @@
+### The idea was to import Victor's stuff, but I don't understand any of it, nor know whether it is useful
+
 ### Hooks for the editor to set the default target
 current: target
 
@@ -19,7 +21,7 @@ ms = ../makestuff
 -include $(ms)/git.mk
 
 -include $(ms)/visual.mk
-# -include $(ms)/linux.mk
+-include $(ms)/linux.mk
 
-# -include $(ms)/RR.mk
+-include $(ms)/RR.mk
 # -include oldlatex.mk
